@@ -1,0 +1,7 @@
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\bin\Debug\REEngine_GUI_Investigator.exe.config
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\bin\Debug\REEngine_GUI_Investigator.exe
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\bin\Debug\REEngine_GUI_Investigator.pdb
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\obj\Debug\REEngine_GUI_Investigator.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\obj\Debug\REEngine_GUI_Investigator.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\obj\Debug\REEngine_GUI_Investigator.exe
+C:\Users\userpc\source\repos\REEngine_GUI_Investigator\REEngine_GUI_Investigator\obj\Debug\REEngine_GUI_Investigator.pdb
